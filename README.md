@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlwNGY1czEwa3BjcXBjZXpyOTU0ZHYzeGNxMGVrZHZxbHVudm9mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif"  />
+</div>
+
+###
+
 <h5 align="left">I’m a passionate Software Developer & Creative Technologist specializing in Android & web development, UI/UX design, and multimedia production. I create intuitive applications and efficient systems that elevate user experience and productivity.<br><br>🎓 Student at SMKN 1 Cimahi<br>📌 Currently exploring advanced Android development, UI/UX best practices, and full-stack optimization.<br><br>📧 zufarrasyidibrahim@gmail.com<br>🌐 jupjupar.my.id<br><br>Let’s build something impactful together! 🚀</h5>
 
 ###
@@ -36,16 +42,16 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@joeparb2352" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/jupjupar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/channels/users/vond.joepar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/muhammad.zufar.14224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
 </div>
 
