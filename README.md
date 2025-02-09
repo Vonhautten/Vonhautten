@@ -73,6 +73,10 @@
 
 ###
 
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/rf4gw2swb67nu90qndl87e3xo"><img src="https://spotify-now-playing-vonhautten.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+
 <div align="center">
   <a href="https://open.spotify.com/user/rf4gw2swb67nu90qndl87e3xo">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rf4gw2swb67nu90qndl87e3xo&count=5" alt="Spotify recently played"  />
