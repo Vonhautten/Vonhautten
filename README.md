@@ -9,7 +9,7 @@
 ###
 
 <h5 align="left">I’m a passionate Software Developer & Creative Technologist specializing in Android & web development, UI/UX design, and multimedia production. I create intuitive applications and efficient systems that elevate user experience and productivity.<br><br>🎓 Student at SMKN 1 Cimahi<br>📌 Currently exploring advanced Android development, UI/UX best practices, and full-stack optimization.<br>
-<br>📧 <b>Email:</b> zufarrasyidibrahim@gmail.com <br>
+<br>📧 <b>Email:</b> zufarrasyidibrahim@gmail.com
 <br>🌐 <b>Website:</b> <a href="https://jupjupar.my.id" target="_blank">jupjupar.my.id</a>  
 <br>Let’s build something impactful together! 🚀</h5>
 
