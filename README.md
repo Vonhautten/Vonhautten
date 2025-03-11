@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="[https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif](https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif)"  />
+  <img height="200" src="https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif"  />
 </div>
 
 ###
