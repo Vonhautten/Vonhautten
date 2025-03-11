@@ -3,15 +3,12 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlwNGY1czEwa3BjcXBjZXpyOTU0ZHYzeGNxMGVrZHZxbHVudm9mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif"  />
+  <img height="400" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlwNGY1czEwa3BjcXBjZXpyOTU0ZHYzeGNxMGVrZHZxbHVudm9mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif](https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif)"  />
 </div>
 
 ###
 
-<h5 align="left">I’m a passionate Software Developer & Creative Technologist specializing in Android & web development, UI/UX design, and multimedia production. I create intuitive applications and efficient systems that elevate user experience and productivity.<br><br>🎓 Student at SMKN 1 Cimahi<br>📌 Currently exploring advanced Android development, UI/UX best practices, and full-stack optimization.<br>
-<br>📧 <b>Email:</b> zufarrasyidibrahim@gmail.com
-<br>🌐 <b>Website:</b> <a href="https://jupjupar.my.id" target="_blank">jupjupar.my.id</a>  
-<br>Let’s build something impactful together! 🚀</h5>
+<h3 align="center">Crafting intuitive apps & systems that blend design & efficiency.</h3>
 
 ###
 
