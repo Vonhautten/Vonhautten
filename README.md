@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlwNGY1czEwa3BjcXBjZXpyOTU0ZHYzeGNxMGVrZHZxbHVudm9mbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif](https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif)"  />
+  <img height="400" src="[https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif](https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif)"  />
 </div>
 
 ###
