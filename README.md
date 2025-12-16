@@ -1,83 +1,59 @@
-<h1 align="left">💫About me?</h1>
+<h1 align="center">💫About me?</h1>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif"  />
+  <img height="320" src="https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+UI%2FUX+Enthusiast+%7C+Problem+Solver;Crafting+digital+experiences+that+inspire+and+innovate" alt="Typing SVG" />
 </div>
 
-###
+<br>
 
-<h3 align="center">Crafting intuitive apps & systems that blend design & efficiency.</h3>
-
-###
+## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="apache logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
+
+| Languages | Frameworks | Tools & Design |
+|-----------|------------|----------------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | | |
+
 </div>
 
-###
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.youtube.com/@joeparb2352" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/jupjupar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/users/vond.joepar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/muhammad.zufar.14224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=401497&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Vonhautten&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vonhautten&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=ffffff) |
+|:---:|:---:|
+
 </div>
 
-###
+<br>
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img height="255" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRtZHR0eDR4ejM1OXptbHZsM3h3aHM1aXVsc292Zm41djA4eGZxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fClKEEVhdnyvcYkWWX/giphy.gif"  />
+  <a href="https://www.youtube.com/@joeparb2352"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jupjupar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/channels/users/vond.joepar"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.facebook.com/muhammad.zufar.14224/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/Vonhautten"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vonhautten&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vonhautten&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=great-gatsby&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/rf4gw2swb67nu90qndl87e3xo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rf4gw2swb67nu90qndl87e3xo&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<br>
 
 ![snake gif](https://github.com/vonhautten/vonhautten/blob/output/github-snake-dark.svg)
 
-###
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/rf4gw2swb67nu90qndl87e3xo">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rf4gw2swb67nu90qndl87e3xo&unique=true" width="400" />
+  </a>
+</div>
+
+<br>
