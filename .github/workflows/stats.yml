@@ -20,15 +20,35 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: vonhautten
 
-          template: classic
-          base: header, activity, repositories
-
-          languages: yes
-          languages_details: percentage
-          languages_limit: 8
-
+          # === GENERAL ===
+          template: repository
           config_timezone: Asia/Jakarta
+          config_display: columns
 
+          # === BASE SECTIONS ===
+          base: header, repositories
+
+          # === STATS (LEFT PANEL) ===
+          repositories_affiliations: owner
+          repositories_skipped: ""
+          repositories_forks: no
+
+          # === LANGUAGES (RIGHT PANEL) ===
+          languages: yes
+          languages_analysis_timeout: 15
+          languages_limit: 12
+          languages_threshold: 0%
+          languages_colors: github
+          languages_details: bytes-size, percentage
+          languages_sections: most-used
+          languages_indepth: yes
+
+          # === VISUAL ===
+          config_order: base.header, base.repositories, languages
+          config_padding: 8, 16
+          config_layout: wide
+
+          # === OUTPUT ===
           output_action: commit
-          output_path: generated
+          output_path: .
           filename: metrics.svg
