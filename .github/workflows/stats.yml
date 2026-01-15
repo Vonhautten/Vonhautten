@@ -24,31 +24,27 @@ jobs:
           template: repository
           config_timezone: Asia/Jakarta
           config_display: columns
+          config_padding: 8, 16
 
           # === BASE SECTIONS ===
           base: header, repositories
-
-          # === STATS (LEFT PANEL) ===
           repositories_affiliations: owner
-          repositories_skipped: ""
           repositories_forks: no
+          repositories_skipped: ""
 
-          # === LANGUAGES (RIGHT PANEL) ===
-          languages: yes
-          languages_analysis_timeout: 15
-          languages_limit: 12
-          languages_threshold: 0%
-          languages_colors: github
-          languages_details: bytes-size, percentage
-          languages_sections: most-used
-          languages_indepth: yes
+          # === LANGUAGES PLUGIN ===
+          plugin_languages: yes
+          plugin_languages_limit: 12
+          plugin_languages_threshold: 0%
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
 
-          # === VISUAL ===
-          config_order: base.header, base.repositories, languages
-          config_padding: 8, 16
-          config_layout: wide
+          # === ORDER ===
+          config_order: base.header, base.repositories, plugin_languages
 
           # === OUTPUT ===
           output_action: commit
-          output_path: .
           filename: metrics.svg
