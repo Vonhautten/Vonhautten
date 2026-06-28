@@ -2,10 +2,19 @@
 
 ###
 
+<!-- ░▒▓ VONHAUTTEN — CYBERPUNK EDGERUNNER README ▓▒░ -->
+
 <div align="center">
-  <img height="320" src="https://media1.tenor.com/m/-XBRBRUMWusAAAAd/purple-flow.gif" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+UI%2FUX+Enthusiast+%7C+Problem+Solver;Crafting+digital+experiences+that+inspire+and+innovate" alt="Typing SVG" />
+
+```
+██╗   ██╗ ██████╗ ███╗   ██╗██╗  ██╗ █████╗ ██╗   ██╗████████╗████████╗███████╗███╗   ██╗
+██║   ██║██╔═══██╗████╗  ██║██║  ██║██╔══██╗██║   ██║╚══██╔══╝╚══██╔══╝██╔════╝████╗  ██║
+██║   ██║██║   ██║██╔██╗ ██║███████║███████║██║   ██║   ██║      ██║   █████╗  ██╔██╗ ██║
+╚██╗ ██╔╝██║   ██║██║╚██╗██║██╔══██║██╔══██║██║   ██║   ██║      ██║   ██╔══╝  ██║╚██╗██║
+ ╚████╔╝ ╚██████╔╝██║ ╚████║██║  ██║██║  ██║╚██████╔╝   ██║      ██║   ███████╗██║ ╚████║
+  ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═══╝
+```
+
 </div>
 
 <br>
